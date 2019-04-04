@@ -2,7 +2,7 @@
 
 #### 项目结构
 
-![](C:\Users\heyahui\Desktop\springboot整合mybatis项目结构图.png)
+![](C:\Users\heyahui\Pictures\OS_Picture\springboot整合mybatis项目结构图.png)
 
 1. XxxMapper  接口要注意两点：
    - 添加@Mapper接口
